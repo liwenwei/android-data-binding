@@ -4,6 +4,8 @@ package com.liwenwei.mydatabinding;
 import android.databinding.BaseObservable;
 import android.databinding.Bindable;
 
+import com.liwenwei.mydatabinding.BR;
+
 public class User extends BaseObservable {
     private String firstName;
     private String lastName;
